@@ -1,6 +1,7 @@
 # The FOSS Code of Conduct
 - **AUTHOR:** Derek Taylor
 - **DATE:** April 23, 2021
+- **VERSION:** 1.0
 
 This code of conduct is written to guide an individual's choices and actions within the free and open source software (FOSS) community.  This code will help one determine the purpose and the course of his work as well as his place as a member of this community.
 
